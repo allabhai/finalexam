@@ -70,3 +70,8 @@ int main() {
 
     return 0;
 }
+
+
+//Commands to run the code
+compile = g++ filename.cpp
+run = ./a.out
